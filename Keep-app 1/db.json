@@ -1,0 +1,24 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "title": "Name",
+      "content": "Satyam"
+    },
+    {
+      "id": 2,
+      "title": "Course",
+      "content": "JavaFullStack"
+    },
+    {
+      "id": 3,
+      "title": "organisation",
+      "content": "CGI"
+    },
+    {
+      "id": 4,
+      "title": "Batch",
+      "content": "Wave 2 batch 2"
+    }
+  ]
+}
